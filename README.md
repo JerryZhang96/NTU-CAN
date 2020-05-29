@@ -20,6 +20,9 @@
 # Add To Cart Page
 ![cart-item](https://user-images.githubusercontent.com/44188425/83220167-ea8c6780-a1a4-11ea-9403-03ac22cba171.PNG)
 
+# Billing Info Page
+![billing-info](https://user-images.githubusercontent.com/44188425/83221389-49071500-a1a8-11ea-9712-7a13ac174637.PNG)
+
 # Successful Placement
 ![email](https://user-images.githubusercontent.com/44188425/83220170-ebbd9480-a1a4-11ea-96d3-5972cf0b316b.PNG)
 
